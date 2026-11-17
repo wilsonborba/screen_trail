@@ -1,0 +1,7 @@
+.dart_tool/
+build/
+coverage/
+pubspec.lock
+.env
+docs/
+.claude/
