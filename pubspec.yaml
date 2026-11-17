@@ -1,0 +1,21 @@
+name: screen_trail
+description: Error and usability tracking for Flutter apps. The app selects the destination with a transport. Sensitive values never leave the device.
+version: 0.1.0
+repository: https://github.com/wilsonborba/screen_trail
+issue_tracker: https://github.com/wilsonborba/screen_trail/issues
+topics:
+  - analytics
+  - telemetry
+  - error-reporting
+  - usability
+environment:
+  sdk: ^3.11.1
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.5.0
+  web: ^1.1.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
